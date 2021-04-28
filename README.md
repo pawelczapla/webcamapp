@@ -1,5 +1,3 @@
-# pyvirtualcam
-
 pyvirtualcam sends frames to a virtual camera from Python.
 
 ## Usage
