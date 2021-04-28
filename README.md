@@ -1,3 +1,5 @@
+## How to stream application output into webcam
+
 pyvirtualcam sends frames to a virtual camera from Python.
 
 ## Usage
